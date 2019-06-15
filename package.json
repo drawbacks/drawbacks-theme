@@ -1,0 +1,36 @@
+{
+    "name": "drawbacks-theme",
+    "displayName": "Drawbacks",
+    "description": "Minimal VS Code theme.",
+    "version": "1.0.0",
+    "publisher": "shamefully",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shamefully/drawbacks-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Drawbacks",
+                "uiTheme": "vs-dark",
+                "path": "./themes/drawbacks-dark.json"
+            },
+            {
+                "label": "Drawbacks Light",
+                "uiTheme": "vs",
+                "path": "./themes/drawbacks-light.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    }
+}
