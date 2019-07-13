@@ -140,6 +140,7 @@
 			"scope": [
 				"constant.language",
 				"variable.language.this",
+				"variable.other.object",
 				"variable.other.class",
 				"variable.other.constant",
 				"meta.property-name",
