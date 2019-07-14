@@ -2,7 +2,7 @@
     "name": "drawbacks-theme",
     "displayName": "Drawbacks",
     "description": "Minimal VS Code theme.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "shamefully",
     "repository": {
         "type": "git",
