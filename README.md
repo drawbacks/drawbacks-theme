@@ -22,6 +22,7 @@ code --install-extension drawbacks.drawbacks-theme
 ### Git
 ```
 git clone git@github.com:drawbacks/drawbacks-theme.git ~/.vscode/extensions/drawbacks.drawbacks-theme
+```
 
 ## Credits
 Source: [misolori/min-theme](https://github.com/misolori/min-theme)
