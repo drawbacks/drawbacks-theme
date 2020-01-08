@@ -9,14 +9,19 @@ Minimal VS Code theme.
 </div>
 
 ## Installation
+### Marketplace
 1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=shamefully.drawbacks-theme)
 2. Go to `File > Preferences > Color Theme`
 3. Select `Drawbacks` or `Drawbacks Light`
 
 Alternatively install via CLI:
 ```
-code --install-extension shamefully.drawbacks-theme
+code --install-extension drawbacks.drawbacks-theme
 ```
+
+### Git
+```
+git clone git@github.com:drawbacks/drawbacks-theme.git ~/.vscode/extensions/drawbacks.drawbacks-theme
 
 ## Credits
 Source: [misolori/min-theme](https://github.com/misolori/min-theme)
